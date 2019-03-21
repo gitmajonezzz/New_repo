@@ -6,3 +6,5 @@ else:
 so now motherfucker, I'll type something
 and now again i type in something
 and local3
+
+and now master would like to say something, what do ya think about it?
