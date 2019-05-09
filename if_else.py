@@ -1,6 +1,6 @@
 a = 1
-
+ggvgjvjv
 if a == 1:
     print("a = 1")
-else:
+felse:
     print("a != 1)
